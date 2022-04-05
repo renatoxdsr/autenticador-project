@@ -1,0 +1,17 @@
+[
+  {
+    "name": "admin",
+    "email": "admin@ifpb.edu.br",
+    "password": "123456"
+  },
+  {
+    "name": "diego",
+    "email": "diego.pessoa@ifpb.edu.br",
+    "password": "654321"
+  },
+  {
+    "name": "superadmin",
+    "email": "superadmin@ifpb.edu.br",
+    "password": "321123"
+  }
+]
